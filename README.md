@@ -1,8 +1,3 @@
-# NLP
-this is a simple study about NLP using portuguese dataset
-
-# Dataset
-
-* the dataset can be found here: https://www.kaggle.com/luisfredgs/imdb-ptbr
-
-* the word2vec model can be found here: http://nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc
+version https://git-lfs.github.com/spec/v1
+oid sha256:07d732a97f727513ae329b3700c94f50c6c1bc2bbe10de00fdd11352295856ec
+size 271

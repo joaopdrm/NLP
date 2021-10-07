@@ -1,10 +1,3 @@
-numpy==1.19.5
-pandas==1.3.0
-nltk==3.6.2
-sklearn==0.0
-matplotlib==3.4.2
-matplotlib-inline==0.1.2
-seaborn==0.11.1
-wordcloud==1.8.1
-scikit-plot==0.3.7
-gensim==4.1.2
+version https://git-lfs.github.com/spec/v1
+oid sha256:58296129495972bd915c1ae2cc2171fd5c99ab20e9a6fb207ec949f19ec923f2
+size 162
